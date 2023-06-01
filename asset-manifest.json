@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/assignmentApex/static/css/main.07a9f72a.css",
+    "main.js": "/assignmentApex/static/js/main.ea0ae2c5.js",
+    "index.html": "/assignmentApex/index.html",
+    "main.07a9f72a.css.map": "/assignmentApex/static/css/main.07a9f72a.css.map",
+    "main.ea0ae2c5.js.map": "/assignmentApex/static/js/main.ea0ae2c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07a9f72a.css",
+    "static/js/main.ea0ae2c5.js"
+  ]
+}
